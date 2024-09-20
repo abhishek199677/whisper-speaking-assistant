@@ -1,0 +1,4 @@
+whisper
+openai
+pydub
+speech_recognition

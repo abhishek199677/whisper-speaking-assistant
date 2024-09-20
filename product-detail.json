@@ -1,0 +1,363 @@
+[
+  {
+    "id": 1,
+    "name": "Basic T-Shirt",
+    "category": "Clothing",
+    "price": 19.99,
+    "currency": "USD",
+    "inStock": true,
+    "details": {
+      "material": "Cotton",
+      "size": "M"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "price": 59.99,
+    "currency": "USD",
+    "inStock": false,
+    "details": {
+      "material": "Synthetic",
+      "size": "10"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Stainless Steel Water Bottle",
+    "category": "Accessories",
+    "price": 25.0,
+    "currency": "USD",
+    "inStock": true,
+    "details": {
+      "capacity": "1L",
+      "color": "Blue"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch Fitness Tracker",
+    "category": "Electronics",
+    "price": 99.99,
+    "currency": "USD",
+    "inStock": true,
+    "details": {
+      "features": "Heart Rate, GPS, Waterproof",
+      "color": "Black"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 129.99,
+    "currency": "USD",
+    "inStock": false,
+    "details": {
+      "battery_life": "24 hours",
+      "color": "White",
+      "connectivity": "Bluetooth 5.0"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Organic Green Tea",
+    "category": "Groceries",
+    "price": 4.99,
+    "currency": "USD",
+    "inStock": true,
+    "details": {
+      "weight": "100g",
+      "organic": true
+    }
+  },
+  {
+    "id": 7,
+    "name": "Ergonomic Wireless Mouse",
+    "category": "Computer Accessories",
+    "price": 29.99,
+    "currency": "USD",
+    "inStock": true,
+    "details": {
+      "connectivity": "Wireless",
+      "color": "Gray"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Yoga Mat",
+    "category": "Fitness",
+    "price": 20.0,
+    "currency": "USD",
+    "inStock": false,
+    "details": {
+      "material": "Eco-Friendly PVC",
+      "length": "180cm"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Electric Toothbrush",
+    "category": "Personal Care",
+    "price": 39.95,
+    "currency": "USD",
+    "inStock": true,
+    "details": {
+      "speed": "5000 rpm",
+      "color": "White"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Leather Wallet",
+    "category": "Accessories",
+    "price": 50.0,
+    "currency": "USD",
+    "inStock": false,
+    "details": {
+      "material": "Genuine Leather",
+      "color": "Brown"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Graphic Designer's Tablet",
+    "category": "Electronics",
+    "price": 199.99,
+    "currency": "USD",
+    "inStock": true,
+    "details": {
+      "connectivity": "USB, Bluetooth",
+      "size": "Medium"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Professional DSLR Camera",
+    "category": "Photography",
+    "price": 899.99,
+    "currency": "USD",
+    "inStock": false,
+    "details": {
+      "resolution": "24MP",
+      "sensor": "Full Frame"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Ceramic Dinner Set",
+    "category": "Home and Kitchen",
+    "price": 59.99,
+    "currency": "USD",
+    "inStock": true,
+    "details": {
+      "pieces": "16",
+      "color": "White"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Sunscreen Lotion SPF 50",
+    "category": "Personal Care",
+    "price": 12.95,
+    "currency": "USD",
+    "inStock": true,
+    "details": {
+      "volume": "200ml",
+      "water_resistant": true
+    }
+  },
+  {
+    "id": 15,
+    "name": "Acoustic Guitar",
+    "category": "Musical Instruments",
+    "price": 299.99,
+    "currency": "USD",
+    "inStock": false,
+    "details": {
+      "material": "Mahogany",
+      "strings": "6"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Insulated Camping Tent",
+    "category": "Outdoor",
+    "price": 149.99,
+    "currency": "USD",
+    "inStock": true,
+    "details": {
+      "capacity": "4 Person",
+      "waterproof": true
+    }
+  },
+  {
+    "id": 17,
+    "name": "Kids Puzzle Game",
+    "category": "Toys and Games",
+    "price": 19.99,
+    "currency": "USD",
+    "inStock": true,
+    "details": {
+      "age_range": "3-7 years",
+      "pieces": "100"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Gourmet Chocolate Box",
+    "category": "Food",
+    "price": 29.99,
+    "currency": "USD",
+    "inStock": true,
+    "details": {
+      "weight": "500g",
+      "variety": "Assorted"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Vintage Style Wall Clock",
+    "category": "Home Decor",
+    "price": 45.0,
+    "currency": "USD",
+    "inStock": true,
+    "details": {
+      "diameter": "30cm",
+      "color": "Bronze"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Adjustable Dumbbell Set",
+    "category": "Fitness",
+    "price": 99.99,
+    "currency": "USD",
+    "inStock": true,
+    "details": {
+      "weight_range": "5 to 25 lbs",
+      "material": "Steel"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Compact Juicer",
+    "category": "Appliances",
+    "price": 75.0,
+    "currency": "USD",
+    "inStock": true,
+    "details": {
+      "power": "700W",
+      "capacity": "1.5L"
+    }
+  },
+  {
+    "id": 22,
+    "name": "LED Desk Lamp",
+    "category": "Furniture",
+    "price": 35.99,
+    "currency": "USD",
+    "inStock": true,
+    "details": {
+      "brightness_levels": "5",
+      "color": "Silver"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Wireless Doorbell Kit",
+    "category": "Home Improvement",
+    "price": 20.99,
+    "currency": "USD",
+    "inStock": true,
+    "details": {
+      "range": "1000ft",
+      "chimes": "52"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Essential Oil Diffuser",
+    "category": "Health",
+    "price": 29.99,
+    "currency": "USD",
+    "inStock": false,
+    "details": {
+      "capacity": "500ml",
+      "color": "White"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Men's Chronograph Watch",
+    "category": "Accessories",
+    "price": 250.0,
+    "currency": "USD",
+    "inStock": true,
+    "details": {
+      "material": "Stainless Steel",
+      "water_resistance": "5 ATM"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Microfiber Bath Towels",
+    "category": "Bath",
+    "price": 40.0,
+    "currency": "USD",
+    "inStock": true,
+    "details": {
+      "quantity": "4",
+      "color": "Grey"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Non-Stick Cookware Set",
+    "category": "Kitchenware",
+    "price": 99.95,
+    "currency": "USD",
+    "inStock": false,
+    "details": {
+      "pieces": "12",
+      "material": "Aluminum"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 59.99,
+    "currency": "USD",
+    "inStock": true,
+    "details": {
+      "battery_life": "10 hours",
+      "waterproof": true
+    }
+  },
+  {
+    "id": 29,
+    "name": "Hiking Backpack",
+    "category": "Travel",
+    "price": 69.99,
+    "currency": "USD",
+    "inStock": true,
+    "details": {
+      "volume": "30L",
+      "color": "Green"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Pre-Workout Supplement",
+    "category": "Nutrition",
+    "price": 39.99,
+    "currency": "USD",
+    "inStock": false,
+    "details": {
+      "flavor": "Blue Raspberry",
+      "size": "300g"
+    }
+  }
+]
